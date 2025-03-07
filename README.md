@@ -6,7 +6,7 @@ I love working with data to solve complex problems and help businesses make data
 
 Skills -
 Programming Languages: Python.
-Data Visualization: Tableau, Power BI, Advanced Excel, Python.
+Data Visualization: Tableau, Power BI, Advanced Excel, Python, Machine Learning.
 
 Connect with Me
 LinkedIn - @Pranjalkashyap
